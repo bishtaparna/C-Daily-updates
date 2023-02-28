@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     // here, operator is character, a is used for operator
-    char a ; 
+    char choice ; 
 
     // Inputs are taken as float
     float num1, num2 ;
@@ -16,9 +16,9 @@ int main()
     cin >> num1 >> num2 ;
 
     cout << "Enter operator: +, -, *, / \n";
-    cin >> a;
+    cin >> choice ;
 
-    switch(a)
+    switch(choice)
         {
             case '+' :
             cout << num1 << " + " << num2 << " = " << num1 + num2;
