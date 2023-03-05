@@ -1,4 +1,4 @@
-// Program to copy the string taken from user
+// Program to copy the string taken from user.
 
 #include<iostream>
 
