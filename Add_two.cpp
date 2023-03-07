@@ -1,4 +1,4 @@
-// Program to Add two numbers.
+// Program to Add two numbers
 
 #include<iostream>
 
