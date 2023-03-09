@@ -1,4 +1,4 @@
-// a program in C++ to print a welcome text in a separate line
+// A program in C++ to print a welcome text in a separate line
 
 #include<iostream>
 
